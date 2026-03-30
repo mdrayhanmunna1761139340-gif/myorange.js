@@ -1,0 +1,6 @@
+npm install puppeteer
+npm install cheerio
+npm install fluent-ffmpeg
+npm install ffmpeg-static
+npm install axios
+npm install winston
